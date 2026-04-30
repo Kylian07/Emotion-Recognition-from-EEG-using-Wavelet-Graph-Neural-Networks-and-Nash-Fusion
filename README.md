@@ -37,7 +37,7 @@ The proposed approach achieves **state-of-the-art performance across multiple EE
 ## 🏗️ Model Architecture  
 
 <p align="center">
-  <img src="assets/HaarGCN.png" alt="Model Architecture" width="700"/>
+  <img src="assets/Model.png" alt="Model Architecture" width="700"/>
 </p>
 
 The architecture consists of two parallel branches:
