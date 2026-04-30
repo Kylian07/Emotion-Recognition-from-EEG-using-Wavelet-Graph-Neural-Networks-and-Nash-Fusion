@@ -128,7 +128,7 @@ We evaluate our model on **four benchmark EEG datasets**:
 ## 📊 Visualization  
 
 <p align="center">
-  <img src="assets/graph_attention.pdf" alt="Saliency Maps" width="700"/>
+  <img src="assets/SaliencyMap.png" alt="Saliency Maps" width="700"/>
 </p>
 
 Saliency maps highlight **important EEG channels**, showing how the model focuses on discriminative brain regions across datasets.
