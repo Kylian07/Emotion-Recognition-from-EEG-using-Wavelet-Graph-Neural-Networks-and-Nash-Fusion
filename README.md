@@ -37,7 +37,7 @@ The proposed approach achieves **state-of-the-art performance across multiple EE
 ## 🏗️ Model Architecture  
 
 <p align="center">
-  <img src="assets/model_architecture.png" alt="Model Architecture" width="700"/>
+  <img src="assets/HaarGCN.png" alt="Model Architecture" width="700"/>
 </p>
 
 The architecture consists of two parallel branches:
@@ -62,10 +62,6 @@ This ensures:
 - Preservation of **complementary information**  
 - Suppression of noisy or conflicting features  
 - Robust and stable feature representation  
-
-<p align="center">
-  <img src="assets/fusion_flow.png" alt="Fusion Flow" width="650"/>
-</p>
 
 ---
 
@@ -132,7 +128,7 @@ We evaluate our model on **four benchmark EEG datasets**:
 ## 📊 Visualization  
 
 <p align="center">
-  <img src="assets/saliency_maps.png" alt="Saliency Maps" width="700"/>
+  <img src="assets/graph_attention.pdf" alt="Saliency Maps" width="700"/>
 </p>
 
 Saliency maps highlight **important EEG channels**, showing how the model focuses on discriminative brain regions across datasets.
